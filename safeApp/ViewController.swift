@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  safeApp
 //
-//  Created by ADAM KOLODNY on 12/26/18.
+//  Created by ADAM R KOLODNY on 12/26/18.
 //  Copyright © 2018 ADAM KOLODNY. All rights reserved.
 //
 
